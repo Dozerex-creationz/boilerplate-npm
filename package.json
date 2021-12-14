@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
-	},
+		},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":"Dozerex"
+	"author":"Dozerex",
+	"description":"this is the best project in the world",
+	"keywords":["hero code","magic potion","best ever code","freecodecamp"],
+	"license": "MIT",
+	"version": "1.1.0"
 }
